@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, here's a joke for my fellow developers
 
 <!--
 **kereminci/kereminci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
